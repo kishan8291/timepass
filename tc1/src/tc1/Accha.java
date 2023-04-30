@@ -5,7 +5,7 @@ public class Accha {
 		System.out.println("kishan accha hai");
 		System.out.println("ek baar update ho gaya");
 		System.out.println("do baar update ho gaya" );
-		
+		System.out.println("tin baar update ho gaya");
 	}
 
 }
